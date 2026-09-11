@@ -21,7 +21,7 @@ figures/                 paper figures (PDF)
 submitted_deliverables/  Solution Summary, ConOps + appendix, Design Layout (as submitted)
 ```
 
-**Author:** María Jesús Puerta Angulo (independent researcher, Tarragona, Spain) · **Version:** v1, September 2026
+**Author:** María Jesús Puerta Angulo (independent researcher, Tarragona, Spain) · ORCID [0009-0007-8096-5070](https://orcid.org/0009-0007-8096-5070) · **Version:** v1, September 2026
 
 ## Contents
 | File | What it is |

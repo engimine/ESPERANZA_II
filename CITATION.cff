@@ -5,6 +5,7 @@ authors:
   - family-names: "Puerta Angulo"
     given-names: "María Jesús"
     email: "mariajesuspuertaangulo@gmail.com"
+    orcid: "https://orcid.org/0009-0007-8096-5070"
     affiliation: "Independent researcher, Tarragona, Spain"
 version: "1.0.1"
 doi: "10.5281/zenodo.22713680"
@@ -26,6 +27,7 @@ preferred-citation:
   authors:
     - family-names: "Puerta Angulo"
       given-names: "María Jesús"
+      orcid: "https://orcid.org/0009-0007-8096-5070"
   year: 2026
   notes: "Preprint v1, September 2026"
   doi: "10.5281/zenodo.22713680"
