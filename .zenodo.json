@@ -1,0 +1,33 @@
+{
+  "title": "ESPERANZA II: crew-time-constrained bioregenerative food system for a 500-sol Mars surface mission — preprint v1, 14-sol meal plan workbooks and reconciliation scripts",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>Open post-challenge release of the ESPERANZA II design (NASA Mars to Table Challenge 2026, solo entry, submitted 11 August 2026). Includes the preprint <i>Crew time as the binding constraint of a bioregenerative food system for a fifteen-person, 500-sol Mars surface mission: design reconciliation and a 14-sol meal plan</i> (v1, 18 pp.), the 14-sol meal-plan workbooks as submitted (schedule and lifecycle, 1,004 ingredient lines), the scripts that recompute galley labour (15.40 h per sol; worst rolling five-sol window 80.3 h; specialists 79.5–81.2 h of 90 h) and Earth-provisioned energy (41.2 % per-ingredient audit; 47.0 % crop-nameplate basis) from those workbooks, the paper figures, and the submitted Solution Summary, Concept of Operations with appendix and Design Layout.</p><p>System: 373 m² LED sole-source crop canopy, 40 m² cyanobacterial photobioreactor, 48 m² Tenebrio molitor rearing, 50 m² fungal culture; 58.1 kW mean electrical demand; 644 L per sol canopy transpiration recovered at 98.5 %; 20.7 kg CO₂ per sol fixed; oxygen release 116 % of crew demand; 78 distinct meals per 14-sol rotation.</p><p>Project site: https://esperanzaresearch.com · Preprint landing page: https://esperanzaresearch.com/paper/</p>",
+  "creators": [
+    {
+      "name": "Puerta Angulo, María Jesús",
+      "affiliation": "Independent researcher, Tarragona, Spain"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "bioregenerative life support",
+    "Mars surface mission",
+    "crew time",
+    "food system design",
+    "controlled-environment agriculture",
+    "in-situ resource utilisation",
+    "NASA Mars to Table",
+    "space food",
+    "closed-loop life support"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {"identifier": "https://esperanzaresearch.com/paper/", "relation": "isIdenticalTo", "resource_type": "publication-preprint"},
+    {"identifier": "https://esperanzaresearch.com/paper/Puerta_Angulo_2026_ESPERANZA_II_crew_time_preprint_v1.pdf", "relation": "isIdenticalTo", "resource_type": "publication-preprint"},
+    {"identifier": "https://github.com/engimine/ESPERANZA_II", "relation": "isSupplementedBy", "resource_type": "software"},
+    {"identifier": "10.21203/rs.3.rs-10232328/v1", "relation": "references", "resource_type": "publication-preprint"}
+  ],
+  "notes": "Preprint v1, 11 September 2026. Design developed for and submitted to the NASA Mars to Table Challenge 2026 (solo entry; not selected as finalist). Documents, data and figures CC BY 4.0; scripts MIT."
+}
