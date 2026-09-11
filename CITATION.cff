@@ -6,7 +6,8 @@ authors:
     given-names: "María Jesús"
     email: "mariajesuspuertaangulo@gmail.com"
     affiliation: "Independent researcher, Tarragona, Spain"
-version: "1.0"
+version: "1.0.1"
+doi: "10.5281/zenodo.22713680"
 date-released: "2026-09-11"
 license: "CC-BY-4.0"
 url: "https://esperanzaresearch.com"
@@ -27,4 +28,5 @@ preferred-citation:
       given-names: "María Jesús"
   year: 2026
   notes: "Preprint v1, September 2026"
+  doi: "10.5281/zenodo.22713680"
   url: "https://esperanzaresearch.com/paper.pdf"

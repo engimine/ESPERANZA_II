@@ -1,5 +1,6 @@
 # ESPERANZA II — crew-time-constrained bioregenerative food system for a 15-crew, 500-sol Mars surface mission
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22713680.svg)](https://doi.org/10.5281/zenodo.22713680)
 [![Preprint](https://img.shields.io/badge/preprint-v1%20(PDF)-c1440e)](https://esperanzaresearch.com/paper.pdf)
 [![Project site](https://img.shields.io/badge/project-esperanzaresearch.com-222)](https://esperanzaresearch.com)
 [![License: CC BY 4.0](https://img.shields.io/badge/docs%20%26%20data-CC%20BY%204.0-lightgrey)](LICENSE-CC-BY-4.0.md)
@@ -48,4 +49,4 @@ Expected: galley mean 15.40 h/sol (peak 19.03 sol 3, minimum 13.35 sol 6), 76.98
 - The iron content of the delivered rotation (20 mg/sol) exceeds the NASA-STD-3001 spaceflight ceiling (8–10 mg/sol); this is declared as an open non-conformance in the paper.
 
 ## Citation
-Puerta Angulo, M.J. (2026). ESPERANZA II: crew-time-constrained bioregenerative food system for a 500-sol Mars surface mission — design package, 14-sol meal plan workbooks and reconciliation scripts. Zenodo. DOI: pending (Zenodo deposit in preparation). Until then cite this repository and https://esperanzaresearch.com/paper.pdf
+Puerta Angulo, M.J. (2026). ESPERANZA II: crew-time-constrained bioregenerative food system for a 500-sol Mars surface mission — design package, 14-sol meal plan workbooks and reconciliation scripts. Zenodo. DOI: https://doi.org/10.5281/zenodo.22713680
