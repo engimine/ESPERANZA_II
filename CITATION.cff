@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this design package or the preprint, please cite it as below."
+title: "ESPERANZA II: crew-time-constrained bioregenerative food system for a 500-sol Mars surface mission — design package, 14-sol meal plan workbooks and reconciliation scripts"
+authors:
+  - family-names: "Puerta Angulo"
+    given-names: "María Jesús"
+    email: "mariajesuspuertaangulo@gmail.com"
+    affiliation: "Independent researcher, Tarragona, Spain"
+version: "1.0"
+date-released: "2026-09-11"
+license: "CC-BY-4.0"
+url: "https://esperanzaresearch.com"
+repository-code: "https://github.com/engimine/ESPERANZA_II"
+keywords:
+  - bioregenerative life support
+  - Mars surface mission
+  - crew time
+  - food system design
+  - controlled-environment agriculture
+  - in-situ resource utilisation
+  - NASA Mars to Table
+preferred-citation:
+  type: article
+  title: "Crew time as the binding constraint of a bioregenerative food system for a fifteen-person, 500-sol Mars surface mission: design reconciliation and a 14-sol meal plan"
+  authors:
+    - family-names: "Puerta Angulo"
+      given-names: "María Jesús"
+  year: 2026
+  notes: "Preprint v1, September 2026"
+  url: "https://esperanzaresearch.com/paper.pdf"
